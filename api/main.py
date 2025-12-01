@@ -5,7 +5,7 @@ from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import traceback, requests, base64, httpagentparser
 
-__app__ = "logg\"
+__app__ = "logg"
 __description__ = "meow"
 __version__ = "v2.0"
 __author__ = "C00lB0i"
